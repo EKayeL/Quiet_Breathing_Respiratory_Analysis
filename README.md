@@ -128,3 +128,18 @@ Error Handling: The code stops if required columns are missing or if QB averages
 
 
 This package provides a robust tool for respiratory data analysis, offering detailed insights into breathing patterns and irregularities. For further assistance, review the inline comments in "QB_Breathing_Tag.Rmd" or contact the package author.
+
+
+Support: For assistance, email [el.kaye@ufl.edu].
+
+License and Citation
+
+
+
+
+
+License: Distributed under the MIT License.
+
+
+
+Citation: If used in research, please cite: "Quiet Breathing Respiratory Analysis, [Ethan Leonard Kaye], 2024."
