@@ -142,4 +142,4 @@ License: Distributed under the MIT License.
 
 
 
-Citation: If used in research, please cite: "Quiet Breathing Respiratory Analysis, [Ethan Leonard Kaye], 2024."
+Citation: If used in research, please cite: "Quiet Breathing Respiratory Analysis Package, [Ethan Leonard Kaye], 2024."
